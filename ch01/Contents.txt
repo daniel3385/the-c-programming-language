@@ -1,0 +1,23 @@
+ex1-3.c: printf Fahrenheit_Celsius table
+        for fahr = 0, 20, .., 300; floating-point version 
+
+ex1-4.c: printf Celsius to Fahrenheit table
+        for celsius = 0, 10, .., 150; floating-point version 
+
+ex1-5.c: printf Fahrenheit to Celsius table
+        for fahr = 300, 280, .., 0; floating-point versionprintf Fahrenheit_Celsius table
+
+ex1-6.c: Verify the expression getchar()  
+        Type a string then EOF to finish
+
+ex1-7.c:  printf EOF 
+
+ex1-8.c: count blanks, tabs and newlines
+
+ex1-9.c: copy its input to its output replacing each string of one or more blanks by a single blank
+
+ex1-10.c: copy its input to its output replacing each tab by \t backspace by \b and backslash by \\
+
+ex1-11.c: count the number of words and new lines
+
+ex1-12.c: print inputs one words per line
