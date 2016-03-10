@@ -21,3 +21,26 @@ ex1-10.c: copy its input to its output replacing each tab by \t backspace by \b 
 ex1-11.c: count the number of words and new lines
 
 ex1-12.c: print inputs one words per line
+
+ex1-13.c: print a histogram of the lenghts of words in its inputs  
+
+ex1-14.c: print a histogram of the frequencies of differente characters in its inputs
+
+ex1-15.c: Function temperature conversion 
+
+ex1-16.c: This code is from The C Programming Language, second edition, page 29
+
+ex1-17.c: Print lines that are longer than MINLINE
+
+ex1-18.c: remove trailing blanks, tabs and entirely blank lines
+
+ex1-19.c: reverse character string s
+
+ex1-20.c: detab
+
+ex1-21: entab
+
+ex1-22.c: "fold" long input lines into two
+
+exx1-23.c: Remove all comments from a C program
+
